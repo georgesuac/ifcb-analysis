@@ -7,7 +7,7 @@
 
 % ==== USER INPUT (select) ====
 project_name = '03_Tonanmaru_Om_2025';  % folder name inside 'Data'
-enable_parallel = false;       % set to true after testing
+enable_parallel = true;       % set to true after testing
 % ====================================
 
 % Automatically detect project root (ifcb-analysis folder)

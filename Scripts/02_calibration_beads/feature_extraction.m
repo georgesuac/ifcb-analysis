@@ -8,7 +8,7 @@
 
 % ==== USER INPUT (edit only this) ====
 project_name = '02_calibration_beads';  % folder name inside 'Data'
-enable_parallel = false;       % set to true after testing
+enable_parallel = true;       % set to true after testing
 % ====================================
 
 % Automatically detect project root (ifcb-analysis folder)
