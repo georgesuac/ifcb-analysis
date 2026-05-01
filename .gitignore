@@ -7,6 +7,9 @@
 .cpp
 .mexmaca64
 
+#Rstudio
+.Rhistory
+
 # Datasets
 *.db
 
