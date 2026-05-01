@@ -1,5 +1,9 @@
 # Data
-/Data/
+Data/*
+# Keep the template and its RAW_data (including files**)
+!Data/00_template/
+!Data/00_template/RAW_data/
+!Data/00_template/RAW_data/**
 
 
 #MATLAB Files

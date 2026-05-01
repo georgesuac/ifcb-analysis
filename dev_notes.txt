@@ -4,3 +4,5 @@ From: target.blob_image = cell2mat(targets_blob.image(i));
 Changed to: target.blob_image = double(cell2mat(targets_blob.image(i)));
 
 
+%Created 'setup_ifcb_analysis.m' to configure the correct directory paths before blob and feature extraction.
+

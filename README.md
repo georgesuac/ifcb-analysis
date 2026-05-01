@@ -4,7 +4,7 @@ This is a modified copy of hsosik/ifcb-analysis, originally developed by Heidi M
 
 Modifications:
 
-- Fixed compatibility issue with [**DIPUM 3.0.0**](https://github.com/dipum/dipum-toolbox/releases/tag/v3.0.0) invmoments by converting blob masks to double in bin_features.m (see dev_notes.txt)
+- Fixed compatibility issue with [DIPUM 3.0.0](https://github.com/dipum/dipum-toolbox/releases/tag/v3.0.0) invmoments by converting blob masks to double in bin_features.m (see dev_notes.txt)
 
 - Verified working on MATLAB R2026a (Apple Silicon)
 
