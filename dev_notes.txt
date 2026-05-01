@@ -1,0 +1,6 @@
+% Fix: convert blob masks to double for DIPUM compatibility
+Modified bin_features (L59):
+From: target.blob_image = cell2mat(targets_blob.image(i));
+Changed to: target.blob_image = double(cell2mat(targets_blob.image(i)));
+
+
